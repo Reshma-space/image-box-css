@@ -1,0 +1,31 @@
+.container{
+    width: 100%;
+    /* height: 50px; */
+    padding: 50px;
+    padding-left: 20px;
+    margin: auto;
+    text-align: center;
+    /* background-color: aqua; */
+}
+div{
+    display: inline-block;
+    /* unicode-bidi: isolate; */
+    vertical-align: top;
+}
+
+.item-1,.item-2, .item-3,.item-4{
+    width: 200px;
+    display:inline-block;
+    margin: 5px;
+    /* height: 490px; */
+    /* border: 2px solid black; */
+}
+img{
+    width: 100%;
+}
+h3{
+    padding: 5px;
+}
+p{
+    padding: 5px;
+}
